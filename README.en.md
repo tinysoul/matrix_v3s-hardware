@@ -1,7 +1,7 @@
 # matrix_v3s hardware
 
 #### Description
-a simple allwinner V3s dev board designed by KiCad.
+a simple allwinner V3s dev board designed by KiCad.(Cautions: **Not verified yet, be carefully when use it as a referrence.**)
 
 #### Usage
 
